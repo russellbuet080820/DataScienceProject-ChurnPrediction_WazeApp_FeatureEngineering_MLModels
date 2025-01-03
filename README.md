@@ -2,6 +2,7 @@
 
 **Overview**
 * This project predicts user churn in the Waze app using tree-based models, focusing on key factors and retention strategies.
+  
 **Activity Structure**
 *1. Ethical Considerations
   * Address biases and fairness in predicting churn.
